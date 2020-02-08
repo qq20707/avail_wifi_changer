@@ -1,0 +1,2 @@
+# avail_wifi_changer
+基于Ping命令实现无线接入点的质量监测及自动切换
